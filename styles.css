@@ -1,0 +1,31 @@
+body {
+    background-color: #ff9811ef;
+    color: #0D8ABF;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+p {
+    color: #0D8ABF;
+}
+
+blockquote {
+    font-style: italic;
+}
+
+header {
+    text-align: center;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+img {
+    max-width: 400px;
+}
+
+.image {
+max-width: 800px;
+}
+
+
